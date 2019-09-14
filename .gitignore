@@ -1,6 +1,7 @@
 # Ignore build directories
 
 /**/_build/*
+/**/RTE/*
 /**/*.Keith
 /**/JLinkLog.txt
 /**/JLinkSettings.ini
