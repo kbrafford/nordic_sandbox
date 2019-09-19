@@ -2514,6 +2514,21 @@
               <FileType>1</FileType>
               <FilePath>..\..\..\..\..\..\components\libraries\queue\nrf_queue.c</FilePath>
             </File>
+            <File>
+              <FileName>nrf_cli_rtt.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\..\..\..\..\..\components\libraries\cli\rtt\nrf_cli_rtt.c</FilePath>
+            </File>
+            <File>
+              <FileName>nrf_cli_uart.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\..\..\..\..\..\components\libraries\cli\uart\nrf_cli_uart.c</FilePath>
+            </File>
+            <File>
+              <FileName>nrf_cli_cdc_acm.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\..\..\..\..\..\components\libraries\cli\cdc_acm\nrf_cli_cdc_acm.c</FilePath>
+            </File>
           </Files>
         </Group>
         <Group>
@@ -3200,6 +3215,21 @@
                   </Cads>
                 </FileArmAds>
               </FileOption>
+            </File>
+          </Files>
+        </Group>
+        <Group>
+          <GroupName>nRF_Core</GroupName>
+          <Files>
+            <File>
+              <FileName>nrf_mpu_lib.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\..\..\..\..\..\components\libraries\mpu\nrf_mpu_lib.c</FilePath>
+            </File>
+            <File>
+              <FileName>nrf_stack_guard.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\..\..\..\..\..\components\libraries\stack_guard\nrf_stack_guard.c</FilePath>
             </File>
           </Files>
         </Group>
@@ -5718,6 +5748,21 @@
               <FileType>1</FileType>
               <FilePath>..\..\..\..\..\..\components\libraries\queue\nrf_queue.c</FilePath>
             </File>
+            <File>
+              <FileName>nrf_cli_rtt.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\..\..\..\..\..\components\libraries\cli\rtt\nrf_cli_rtt.c</FilePath>
+            </File>
+            <File>
+              <FileName>nrf_cli_uart.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\..\..\..\..\..\components\libraries\cli\uart\nrf_cli_uart.c</FilePath>
+            </File>
+            <File>
+              <FileName>nrf_cli_cdc_acm.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\..\..\..\..\..\components\libraries\cli\cdc_acm\nrf_cli_cdc_acm.c</FilePath>
+            </File>
           </Files>
         </Group>
         <Group>
@@ -6404,6 +6449,21 @@
                   </Cads>
                 </FileArmAds>
               </FileOption>
+            </File>
+          </Files>
+        </Group>
+        <Group>
+          <GroupName>nRF_Core</GroupName>
+          <Files>
+            <File>
+              <FileName>nrf_mpu_lib.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\..\..\..\..\..\components\libraries\mpu\nrf_mpu_lib.c</FilePath>
+            </File>
+            <File>
+              <FileName>nrf_stack_guard.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\..\..\..\..\..\components\libraries\stack_guard\nrf_stack_guard.c</FilePath>
             </File>
           </Files>
         </Group>

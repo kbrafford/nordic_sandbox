@@ -2,6 +2,7 @@
 
 /**/_build/*
 /**/RTE/*
+/**/EventRecorderStub.scvd
 /**/*.Keith
 /**/JLinkLog.txt
 /**/JLinkSettings.ini
